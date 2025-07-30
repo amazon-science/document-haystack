@@ -8,6 +8,10 @@ The proliferation of multimodal Large Language Models has significantly advanced
 
 ## 🎯 Benchmark Overview
 
+### Dataset
+
+The Document Haystack dataset can be found at [AmazonScience/document-haystack](https://huggingface.co/datasets/AmazonScience/document-haystack) on Hugging Face.
+
 ### Key Features
 - **Document Formats**: Text, Image, PDF
 - **Document Range**: 5-200 pages
