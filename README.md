@@ -1,6 +1,6 @@
 # Document Haystack Benchmark
 
-This repository contains the inference and evaluation scripts for the paper "Document Haystack: A Long Context Multimodal Image/Document Understanding Vision LLM Benchmark".
+This repository contains the inference and evaluation scripts for the paper “[Document Haystack: A Long Context Multimodal Image/Document Understanding Vision LLM Benchmark](https://arxiv.org/abs/2507.15882)”.
 
 ## 📑 Abstract Paper
 
@@ -187,6 +187,19 @@ This project is licensed under the CC-BY-NC-4.0 License - see the LICENSE file f
 ## 📧 Contact
 
 For any questions or concerns, please open an issue in the repository.
+
+## 📚 Citation
+
+If you use this work in any way, please cite:
+
+```bibtex
+@article{huybrechts2025document,
+  title={Document Haystack: A Long Context Multimodal Image/Document Understanding Vision LLM Benchmark},
+  author={Huybrechts, Goeric and Ronanki, Srikanth and Jayanthi, Sai Muralidhar and Fitzgerald, Jack and Veeravanallur, Srinivasan},
+  journal={arXiv preprint arXiv:2507.15882},
+  year={2025}
+}
+```
 
 ## 👥 Authors
 
